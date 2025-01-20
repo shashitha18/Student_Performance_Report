@@ -83,9 +83,9 @@ This repository contains a Power BI project showcasing a **Student Performance D
 
 ## 🖼️ Screenshots
 ### Dashboard Preview
-![Dashboard Screenshot For Grade_1 Student](Grade 1.png)
-![Dashboard Screenshot For Grade_2 Student](Grade 2.png)
-![Dashboard Screenshot For Grade_3 Student](Grade 3.png)
+![Dashboard Screenshot For Grade_1 Student](Grade1.png)
+![Dashboard Screenshot For Grade_2 Student](Grade2.png)
+![Dashboard Screenshot For Grade_3 Student](Grade3.png)
 
 ---
 
