@@ -55,7 +55,7 @@ This repository contains a Power BI project showcasing a **Student Performance D
 
 ## 📄 Data Source
 - The dashboard utilizes a dataset containing student performance data. The data includes scores from different grades (G1, G2, G3), demographic details, and other relevant factors like internet access, parental jobs, and reasons for school choice.
-
+- **Used Dataset** :"https://archive.ics.uci.edu/dataset/320/student+performance"
 ---
 
 ## 🕹️ Usage
